@@ -26,7 +26,7 @@
 
 ### 💜 Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TeamDaisyX/DaisyXMusic)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Taylorswiftest/DaisyXMusic)
 
 Get pyrogram (p)  `SESSION` from here:
 
@@ -118,25 +118,4 @@ If you donlt like to play in linked channel:
 This project is inspired on the hard work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork daisyxmusic won't exist. 
 Also DaisyXmusic is inspired by many opensource bots and userbots
 
-#### Contributors
-- [InukaAsith](https://github.com/InukaAsith): Dev / Owner
-- [lucifeermorningstar](https://github.com/lucifeermorningstar): Dev / Owner
-- [Technical-Hunter](https://github.com/Technical-Hunter): Dev / Owner
-- [Hellboy-OP](https://github.com/hellboy-op)
-- [Roj Serbest](http://github.com/rojserbest): Developer of callsmusic 
-- [DeshadeethThisarana](https://github.com/deshadeeth-thisarana): Dev
-- [Wrench](https://github.com/EverythingSuckz/): Dev
-- [Bemro](https://github.com/bemroofficial): Dev
-- [QueenArzoo](https://github.com/QueenArzoo): Dev
-- [Anjana-Ma](https://github.com/Anjana-Ma): Dev
-- [ImJanindu](https://github.com/ImJanindu): Dev
-- [azimazizov9150](https://github.com/azimazizov9150): Contributor
 
-
-## Copyright & License 👮
-
- - Copyright (C) 2020 - 2021 by [TeamDaisyX](github.com/teamdaisyx) ❤️️
- - Licensed under the terms of the [GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007](https://github.com/TeamDaisyX/DaisyXMusic/blob/master/LICENSE)
-    
-DaisyXMusic is Free Software: You can use, study share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.    
-## Made with ♥️ by [TeamDaisyX](https://github.com/TeamDaisyX)
