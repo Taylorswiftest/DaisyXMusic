@@ -42,11 +42,11 @@ def _start(client, message):
                InlineKeyboardButton("➕ Add me to your Group 🙋‍♀️", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
             ],
             [
-               InlineKeyboardButton("📲 Updates", url=f"https://t.me/{UPDATES_CHANNEL}"),
-               InlineKeyboardButton("💬 Support", url=f"https://t.me/{SUPPORT_GROUP}")
+               InlineKeyboardButton("📲 Updates", url=f"https://t.me/English_songs_and_musics"),
+               InlineKeyboardButton("💬 Support", url=f"https://t.me/English_songs_and_musics")
             ],
             [
-               InlineKeyboardButton("🛠 Source Code 🛠", url=f"https://{SOURCE_CODE}")
+               InlineKeyboardButton("🛠 Assistant 🛠", url=f"https://t.me/")
            ]]
         ),
         reply_to_message_id=message.message_id,
